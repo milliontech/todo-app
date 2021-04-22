@@ -1,5 +1,5 @@
 # todo-app
-A simple android created by Apache Cordova and Vue.js
+A simple android app created by Apache Cordova and Vue.js
 
 ## Prepare the project
 
